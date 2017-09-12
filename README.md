@@ -2,7 +2,7 @@
 
 This directory contains a startup guide ("uniax.startup.pdf") and a sample Arduino sketch ("uniax.code.ino")
 
-Users can download the sample sketch and begin control of a fabrication MTU. Users will find the startup guide helpful in answering most questions. Beyong that, questions can be directed to Christopher Kenaley (kenaley (at) bc.edu).
+Users can download the sample sketch and begin control and fabrication of an MTU. Users will find the startup guide helpful in answering most questions. Beyong that, questions can be directed to Christopher Kenaley (kenaley (at) bc.edu).
 
 One can cite this project, startup, and code with the following:
 
