@@ -6,13 +6,12 @@ Users can download the sample sketch and begin control and fabrication of an MTU
 
 One can cite this project, startup, and code with the following:
 
-@article{Kenaley:2017a,
+@article{Kenaley:2018,
 author = {Kenaley, Christopher P and Sanin, Andres and Ackerman, Jeanelle and Yoo, John},
 title = {{Skin stiffness in ray-finned fishes: Contrasting material properties between species and body regions}},
 journal = {Journal of Morphology},
-year = {Submitted},
+year = {2018},
 volume = {},
 number = {},
-pages = {},
-month = Jan
+pages = {}
 }
